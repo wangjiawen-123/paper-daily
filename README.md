@@ -45,6 +45,10 @@ Settings -> Pages
 
 **==注意，我fork下来开启 GitHub Pages此时还没有可访问的链接，保存即可，后续第一次激活才有链接。==**
 
+【最新：】已经有链接了：https://wangjiawen-123.github.io/paper-daily/
+
+**配置完Issue跳转到配置deepseek**
+
 
 
 链接通常长这样：
