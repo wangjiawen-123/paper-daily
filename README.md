@@ -428,7 +428,7 @@ Settings -> Secrets and variables -> Actions -> Secrets -> New repository secret
 | --- | --- |
 | `DEEPSEEK_API_KEY` | 你的 DeepSeek API Key |
 
-**==配置deepseek：sk-f85728bde44a41f2a65daaa73901167f==**
+**==配置deepseek：sk-f7f==**
 
 
 
